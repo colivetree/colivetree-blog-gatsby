@@ -1,7 +1,7 @@
 ---
 title: A blog called home
 date: "2020-09-01T22:12:03.284Z"
-description: "How I'm creating my own blog to both experiment with cool new tech and to own my channel."
+description: "How I'm creating my own blog to experiment with new tech and to own the medium of conversation."
 ---
 
 How this happened:
@@ -10,7 +10,9 @@ I was writing a blog post on proprietary distribution channels and it just felt 
 
 I also saw a [tweet](https://twitter.com/celso/status/1300144121932320769) by Celso Martinho recently, describing how he'd migrated his blog to Cloudflare Workers. 
 
-I had also been playing around with Gatsby and wanted to use one of their [starter templates](https://github.com/gatsbyjs/gatsby-starter-blog) to build my own site, which had pretty neglected recently. 
+I had also been playing around with Gatsby and wanted to use one of their [starter templates](https://github.com/gatsbyjs/gatsby-starter-blog) to build my own site, which had been pretty neglected recently. 
+
+The layout will change significantly over the next few weeks, but this is as good a place to start as any other.
 
 All of these bring us to this moment in time. 
 
