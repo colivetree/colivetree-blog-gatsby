@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Building Fast and Slow`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Carlos Oliveira`,
+      summary: `, a product person building products with and for other people.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Build something extraordinary.`,
+    siteUrl: `https://colivetree-blog.colivetree.workers.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `colivetree`,
     },
   },
   plugins: [

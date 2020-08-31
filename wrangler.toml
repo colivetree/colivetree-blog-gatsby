@@ -1,0 +1,10 @@
+name = "colivetree-blog"
+type = "webpack"
+account_id = "35227d031ca194448383a78c163fc097"
+workers_dev = true
+route = ""
+zone_id = "0b2ba933c3655ea538f2489518409d76"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"

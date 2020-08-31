@@ -1,22 +1,19 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: A blog called home
+date: "2020-09-01T22:12:03.284Z"
+description: "How I'm creating my own blog to both experiment with cool new tech and to own my channel."
 ---
 
-This is my first post on my new fake blog! How exciting!
+How this happened:
 
-I'm sure I'll write a lot more interesting things in the future.
+I was writing a blog post on proprietary distribution channels and it just felt off to plan on publishing it on substack or medium only.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+I also saw a [tweet](https://twitter.com/celso/status/1300144121932320769) by Celso Martinho recently, describing how he'd migrated his blog to Cloudflare Workers. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+I had also been playing around with Gatsby and wanted to use one of their [starter templates](https://github.com/gatsbyjs/gatsby-starter-blog) to build my own site, which had pretty neglected recently. 
 
-![Chinese Salty Egg](./salty_egg.jpg)
+All of these bring us to this moment in time. 
+
+I'll be publishing my thoughts on product, the internet and whatever else comes to mind on here. As is also true in surfing, the best surfer out there is the one having the most fun. 
+
+So let's get out there and catch some waves. Hope you'll have just as much fun alongside me.
