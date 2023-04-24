@@ -1,10 +1,8 @@
-
 ---
 title: Product - An Instinctive understanding of the mechanics
 date: "2023-04-23T22:12:03.284Z"
 description: "How building great products requires being right a lot, and being right a lot requires building amazing instincts for what people want."
 ---
-
 In a Q&A after a surf competition, a surfer was asked how she would pick a new surfboard. She said for her, it was all about how it feels under your arm. Have one look at videos of surfers picking out new boards - they all do this. They place the board directly under their arm, walk with it a bit, get a feel for the weight, wrap their fingers around the rail (the edge) of the board. Only after that do they start examining it up close to get a read for how they curve and angle. When they find one that they feel will be good for them, they get their dimensions made and take it out for a surf.
 
 This feeling is key to a yearly staple internet series in surfing called Stab In The Dark. In SITD, pro surfers are given a batch of unidentified surfboards and they need to pick the best out of the bunch. 
